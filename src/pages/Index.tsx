@@ -48,7 +48,7 @@ const Index = () => {
                   Call Now
                 </a>
               </Button>
-              <Button asChild size="lg" variant="outline" className="border-primary-foreground/20 text-primary-foreground hover:bg-primary-foreground/10">
+              <Button asChild size="lg" variant="outline" className="border-primary-foreground/20 text-sky-400 hover:bg-primary-foreground/10">
                 <a
                   href="https://www.google.com/maps/dir/?api=1&destination=425+West+St+North+Orillia+ON"
                   target="_blank"
